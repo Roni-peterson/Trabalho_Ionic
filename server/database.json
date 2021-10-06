@@ -1,0 +1,34 @@
+{
+
+  "produtos":[
+    {
+      "id":1,
+      "name": "Bolo de chocolate",
+      "valor": 10,
+      "imgUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2016/05/bolo-chocolate-simples-1.jpg",
+      "descricao": "Bolo de Chocolate simples, feito de trigo com recheio de chocolate. Seu tempo de preparo é de 1 hora, rende 8 porções. Receita da Vovó Palmira."
+    },
+    {
+      "id":2,
+      "name": "Bolo de Limão",
+      "valor": 12,
+      "imgUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolo-de-limao.jpg",
+      "descricao": "Bolo de Limão simples, feito de trigo com recheio de Limão. Seu tempo de preparo é de 1 hora, rende 8 porções. Receita da Vovó Palmira."
+    },
+    {
+      "id":3,
+      "name": "Bolo Vulcão",
+      "valor": 18,
+      "imgUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2019/02/Bolo-Vulc%C3%A3o.jpg",
+      "descricao": "Bolo Vulcão, feito em formato de vulcão. Seu tempo de preparo é de 1 hora, rende 8 porções. Receita da Vovó Palmira."
+    },
+    {
+      "id":4,
+      "name": "Bolo de Brigadeiro",
+      "valor": 15,
+      "imgUrl": "https://vovopalmirinha.com.br/wp-content/uploads/2019/02/Bolo-de-brigadeiro.jpg",
+      "descricao": "Bolo de Brigadeiro simples, feito de trigo com recheio de Brigadeiro. Seu tempo de preparo é de 1 hora, rende 8 porções. Receita da Vovó Palmira."
+    }
+
+  ]
+}
